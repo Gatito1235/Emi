@@ -307,10 +307,10 @@
       <h2 class="section-title">Así es ella</h2>
       <p class="section-sub">Cada foto tiene algo que amo.</p>
       <div class="gallery-grid">
-        <div class="gallery-item"><img src="E:/FOL/fotos/foto1.jpg" alt="Emily"><span>esa sonrisa 🤍</span></div>
-        <div class="gallery-item"><img src="E:/FOL/fotos/foto2.jpg" alt="Emily"><span>esa mirada ✨</span></div>
-        <div class="gallery-item"><img src="E:/FOL/fotos/foto3.jpg" alt="Emily"><span>tan ella 🍂</span></div>
-        <div class="gallery-item"><img src="E:/FOL/fotos/foto4.jpg" alt="Emily"><span>siempre creativa 🎨</span></div>
+        <div class="gallery-item"><img src="fotos/foto1.jpg" alt="Emily"><span>esa sonrisa 🤍</span></div>
+        <div class="gallery-item"><img src="fotos/foto2.jpg" alt="Emily"><span>esa mirada ✨</span></div>
+        <div class="gallery-item"><img src="fotos/foto3.jpg" alt="Emily"><span>tan ella 🍂</span></div>
+        <div class="gallery-item"><img src="fotos/foto4.jpg" alt="Emily"><span>siempre creativa 🎨</span></div>
       </div>
     </section>
 
